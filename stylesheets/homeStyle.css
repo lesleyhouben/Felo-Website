@@ -1,0 +1,16 @@
+:root {
+    --Main-Color-Green : #73B760;
+    --Main-Color-Purple : #8C489F;
+    --Main-Color-Beige : #eFe4B0;
+    --Main-Color-DarkBlue : #030F45;
+}
+
+.TopNav {
+    background-color: var(--Main-Color-DarkBlue);
+    overflow: hidden;
+    margin: 0 0 0 0; 
+}
+
+.TopNav a:hover { 
+    background-color: var(--Main-Color-Purple);
+} 
